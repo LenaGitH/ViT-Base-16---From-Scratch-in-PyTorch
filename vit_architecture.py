@@ -26,8 +26,9 @@ device
 """
 
 transform = transforms.Compose([
-    transforms.ToTensor(),
-    transforms.Resize((224, 224))
+    transforms.Resize((224, 224)),
+    transforms.ToTensor()
+    
 ])
 
 """### Split the data into train and test datasets"""
