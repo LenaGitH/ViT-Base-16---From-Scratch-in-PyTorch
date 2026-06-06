@@ -6,7 +6,7 @@ Rather than importing a pre-built model, every component is implemented directly
 
 ## Why this project
 
-The goal was not to beat a benchmark, but to *understand* the architecture by rebuilding it piece by piece — and to observe first-hand why Vision Transformers behave the way they do.
+The goal was not to beat a benchmark, but to *understand* the architecture by rebuilding it piece by piece, and to observe first-hand why Vision Transformers behave the way they do.
 
 ## Architecture
 
